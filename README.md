@@ -14,6 +14,7 @@ source.
 [![Widgets][screen5th]][screen5]
 [![Night mode][screen6th]][screen6]
 
+
 ## Features
 
 * **Beautiful, minimalistic and lightweight interface.** Loop has an elegant and minimalistic interface that is very easy to use, even for first-time users. Highly optimized for speed, the app works well even on older phones.
@@ -69,7 +70,7 @@ contribute, even if you are not a software developer.
 
 ## License
 
-<img align="right" alt="GPL v3" src="https://www.gnu.org/graphics/gplv3-88x31.png">
+<img align="right" alt="GPL v3" src="https://www.gnu.org/graphics/gplv3-88x31.png">//srg is stone!!!
 
   Copyright (C) 2016-2025 Álinson Santos Xavier <isoron@gmail.com>
 
