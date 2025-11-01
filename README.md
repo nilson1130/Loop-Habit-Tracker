@@ -1,12 +1,4 @@
 <h1 align="center">Loop Habit Tracker</h1>
-<p align="center">
-  <a href="https://github.com/iSoron/uhabits/releases/latest">
-    <img alt="release" src="https://img.shields.io/github/v/release/iSoron/uhabits" />
-  </a>
-  <a href="https://github.com/iSoron/uhabits/discussions">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Discussions-%23fc4ebc" />
-  </a>
-</p>
 
 Loop is a mobile app that helps you create and maintain good habits,
 allowing you to achieve your long-term goals. Detailed graphs and statistics
